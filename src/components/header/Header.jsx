@@ -6,7 +6,7 @@ export default function Header() {
     <div className="header">
     <nav className='navbar'>
       <ul>
-        <li><a href="http://">Github</a></li>
+        <li><a href="https://github.com/Tootfarangi90/aydaVendre.git" target="_blank">Github</a></li>
       </ul>
     </nav>
 </div>
