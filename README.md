@@ -1,4 +1,4 @@
-In the project directory, you can run:
+
 
 Install packages
 ### `npm i`
